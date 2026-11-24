@@ -2,6 +2,12 @@
 
 Run a 27B LLM (`Qwen3.8-27B` `Q2_K`) with a 32K context window on a free Google Colab Tesla T4 GPU and tunnel it directly to [OpenCode](https://opencode.ai/) on your PC over HTTPS via Cloudflare Quick Tunnels.
 
+[![Open in Colab](https://img.shields.io/badge/Open%20in%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/YOUR-USERNAME/TunnelBot/blob/main/TunnelBot.ipynb)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare%20Tunnel-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Tesla T4](https://img.shields.io/badge/Tesla%20T4-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![License: MIT](https://img.shields.io/badge/MIT%20License-555555?style=for-the-badge)
+
 ```text
 Google Colab (Tesla T4, 15 GB VRAM)             Cloudflare Tunnel                  Local PC
 ┌───────────────────────────────────┐        ┌──────────────────────┐        ┌───────────────────┐
